@@ -1,0 +1,6 @@
+[submodule "Calculadora/mnsg_resta"]
+	path = Calculadora/mnsg_resta
+	url = https://github.com/2025-b-sw-construccion-gr2/mnsg_resta.git
+[submodule "Calculadora/mnsg_suma"]
+	path = Calculadora/mnsg_suma
+	url = https://github.com/2025-b-sw-construccion-gr2/mnsg_suma.git
