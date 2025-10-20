@@ -23,11 +23,13 @@ conversor-monedas/
 
 <h1>En la terminal:</h1>
 
+```bash
 mkdir conversor-monedas
 cd conversor-monedas
 npm init -y
 npm install chalk
 mkdir libs
+```
 
 <h1>Cómo ejecutar</h1>
 
