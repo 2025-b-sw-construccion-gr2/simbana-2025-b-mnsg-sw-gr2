@@ -10,13 +10,15 @@ Ahora quiero que realices un ejemplo paso a paso de un conversor de unidades, co
 
 Crea el proyecto y las carpetas así:
 
+```plaintext
 conversor-monedas/
 ├─ package.json
 ├─ app.js
 ├─ libs/
-│  ├─ converter.js   # librería de operaciones
-│  ├─ logger.js      # librería de logs (colores)
-│  └─ input.js       # librería para obtener datos del usuario
+│  ├─ converter.js   # Librería de operaciones
+│  ├─ logger.js      # Librería de logs (colores)
+│  └─ input.js       # Librería para obtener datos del usuario
+```
 
 
 <h1>En la terminal:</h1>
