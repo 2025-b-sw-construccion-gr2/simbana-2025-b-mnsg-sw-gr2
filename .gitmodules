@@ -4,3 +4,6 @@
 [submodule "Calculadora/mnsg_suma"]
 	path = Calculadora/mnsg_suma
 	url = https://github.com/2025-b-sw-construccion-gr2/mnsg_suma.git
+[submodule "Examen-002"]
+	path = Examen-002
+	url = https://github.com/2025-b-sw-construccion-gr2/huilca-2025-b-fehv-sw-gr2
